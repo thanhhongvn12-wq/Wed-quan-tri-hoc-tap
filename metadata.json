@@ -1,0 +1,8 @@
+{
+  "name": "KHOA HỌC TỰ NHIÊN THCS- QUẢN THỊ HỌC TẬP",
+  "description": "Hệ thống quản trị học tập dành cho giáo viên môn Khoa học tự nhiên THCS - THCS Gia An",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
